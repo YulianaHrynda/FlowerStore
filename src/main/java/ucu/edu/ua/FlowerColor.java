@@ -1,5 +1,5 @@
 package ucu.edu.ua;
 
-public enum Color {
+public enum FlowerColor {
     RED, WHITE, YELLOW, PINK, ORANGE;
 }

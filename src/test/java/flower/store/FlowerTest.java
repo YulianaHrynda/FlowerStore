@@ -3,6 +3,9 @@ package flower.store;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import ucu.edu.ua.Flower;
+import ucu.edu.ua.FlowerColor;
+
 import java.util.Random;
 
 import org.junit.jupiter.api.Assertions;
@@ -14,7 +17,7 @@ public class FlowerTest {
 
     @BeforeEach
     public void init() {
-        flower = new Flower();
+        flower = new Flower(0, null, 0);
     }
 
     @Test

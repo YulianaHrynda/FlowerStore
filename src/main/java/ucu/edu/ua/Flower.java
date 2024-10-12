@@ -1,25 +1,25 @@
 package ucu.edu.ua;
 
-public abstract class Flower {
-    private double sepalLength;
-    private Color color;
+public class Flower {
     private double price;
+    private FlowerColor color;
 
-    public Flower(double sepalLength, Color color, double price) {
-        this.sepalLength = sepalLength;
-        this.color = color;
-        this.price = price;
-    }
-
-    public double getSepalLength() {
-        return sepalLength;
-    }
-
-    public Color getColor() {
-        return color;
+    public Flower(double sepalLength, FlowerColor color2, double price2) {
     }
 
     public double getPrice() {
         return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public FlowerColor getColor() {
+        return color;
+    }
+
+    public void setColor(FlowerColor color) {
+        this.color = color;
     }
 }
