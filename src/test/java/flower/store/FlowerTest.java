@@ -3,8 +3,8 @@ package flower.store;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import ucu.edu.ua.Flower;
-import ucu.edu.ua.FlowerColor;
+import ua.ucu.edu.Flower;
+import ua.ucu.edu.FlowerColor;
 
 import java.util.Random;
 

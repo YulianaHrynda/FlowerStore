@@ -3,10 +3,10 @@ package flower.store;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import ucu.edu.ua.FlowerBucket;
-import ucu.edu.ua.FlowerPack;
-import ucu.edu.ua.Rose;
-import ucu.edu.ua.Flower;
+import ua.ucu.edu.Flower;
+import ua.ucu.edu.FlowerBucket;
+import ua.ucu.edu.FlowerPack;
+import ua.ucu.edu.Rose;
 
 import org.junit.jupiter.api.Assertions;
 

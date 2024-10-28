@@ -1,4 +1,4 @@
-package ucu.edu.ua;
+package ua.ucu.edu;
 
 public class Rose extends Flower {
     public Rose(double sepalLength, FlowerColor color, double price) {
