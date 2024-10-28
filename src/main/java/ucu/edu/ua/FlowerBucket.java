@@ -17,12 +17,10 @@ public class FlowerBucket {
     }
 
     public void add(FlowerPack flowerPack) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'add'");
     }
 
     public Integer getPrice() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'getPrice'");
     }
 }
