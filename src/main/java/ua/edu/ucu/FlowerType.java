@@ -1,4 +1,4 @@
-package ua.ucu.edu;
+package ua.edu.ucu;
 
 public enum FlowerType {
     ROSE, TULIP, CHAMOMILE

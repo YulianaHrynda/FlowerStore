@@ -1,4 +1,4 @@
-package ua.ucu.edu;
+package ua.edu.ucu;
 
 public class FlowerPack {
     private Flower flower;

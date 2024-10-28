@@ -1,4 +1,4 @@
-package ua.ucu.edu;
+package ua.edu.ucu;
 
 import java.util.ArrayList;
 import java.util.List;
