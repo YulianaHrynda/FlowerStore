@@ -1,6 +1,5 @@
-package ua.edu.ucu;
+package flower.store;
 
 public abstract class Item {
     public abstract double getPrice();
-    public abstract String getDescription();
 }
